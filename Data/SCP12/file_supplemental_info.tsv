@@ -1,6 +1,0 @@
-filename	file_type	species_scientific_name	genome_assembly_name	genome_assembly_accession	genome_annotation_name	is_raw_counts	library_preparation_protocol	units	biosample_input_type	modality
-OG_processed_data_portal.txt	Expression Matrix									
-	Fastq									
-cell_type_assignment_portal.txt	Metadata									
-dif_stem_coordinates_portal2.txt	Cluster									
-cell_cycle_coordinates_portal2.txt	Cluster									

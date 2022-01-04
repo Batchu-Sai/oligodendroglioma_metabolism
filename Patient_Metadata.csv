@@ -1,0 +1,7 @@
+﻿Designation,Age,Gender,Location,Location_General,Grade,IDH Mutation,Clinical FISH,integrated clinical diagnosis
+MGH36,67,male,Right frontotemporoinsular,Frontotemporoinsular,WHO II / III,R132H,1p19q loss,"oligodendroglioma, 1p/19q codeleted"
+MGH53,31,male,Left frontal,Frontal,WHO II,R132H,1p19q loss,"oligodendroglioma, 1p/19q codeleted"
+MGH54,35,male,Right parietal,Parietal,WHO II,R132H,"19q loss, 1p loss","oligodendroglioma, 1p/19q codeleted"
+MGH60,51,male,Left frontotemporoinsular,Frontotemporoinsular,WHO II,R132H,1p19q loss,"diffuse glioma (astrocytoma phenotype), 1p19q-codeleted"
+MGH93,65,female,Right temporal,Temporal,WHO II,R132H,1p19q loss,"oligodendroglioma, 1p/19q codeleted"
+MGH97,31,male,Left temporal,Temporal,WHO II,R172K,1p19q loss,"oligodendroglioma, 1p/19q codeleted"
